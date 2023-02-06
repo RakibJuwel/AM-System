@@ -1,0 +1,11 @@
+body{
+    font-family: 'Itim', cursive;
+    color: #fff;
+}
+.offer-card{
+    height: 360px;
+    width: 289px;
+    border: 2px solid #0059d5ac;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
